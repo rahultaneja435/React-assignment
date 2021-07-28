@@ -45,10 +45,10 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">Assigment</Link>
+              <Link to="/">Task1(UI mockup for Excel)</Link>
             </li>
             <li>
-              <Link to="/Assignment">Assigment1</Link>
+              <Link to="/Assignment">Assignement API ( listing futurama character)</Link>
             </li>
           </ul>
         </nav>
